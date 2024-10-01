@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\bin\Debug\BAI4.exe.config
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\bin\Debug\BAI4.exe
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\bin\Debug\BAI4.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\obj\Debug\BAI4.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\obj\Debug\BAI4.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\obj\Debug\BAI4.Form2.resources
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\obj\Debug\BAI4.Form3.resources
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\obj\Debug\BAI4.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\obj\Debug\BAI4.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\obj\Debug\BAI4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\obj\Debug\BAI4.exe
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\obj\Debug\BAI4.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\obj\Debug\BAI4.Form4.resources
+C:\Users\DELL\Documents\Visual Studio 2022\BAI4\BAI4\obj\Debug\BAI4.Form5.resources
